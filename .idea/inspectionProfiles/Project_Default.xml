@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.http.new" />
+          <option value="tuple.save" />
+          <option value="mysql.connectorconnect" />
+          <option value="mysql.connector" />
+          <option value="FirstApp.Serialize.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
